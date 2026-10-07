@@ -1,0 +1,15 @@
+{
+  "iPhone Duo Outer": {
+    "CSS viewport": "466 \u00d7 678",
+    "DPR": 3,
+    "Target physical pixels": "1398 \u00d7 2034",
+    "Chrome device type": "Mobile"
+  },
+  "iPhone Duo Inner": {
+    "CSS viewport": "951 \u00d7 669",
+    "DPR": 3,
+    "Target physical pixels": "2853 \u00d7 2007",
+    "Chrome device type": "Desktop (touch)",
+    "Preferred orientation": "Landscape"
+  }
+}
